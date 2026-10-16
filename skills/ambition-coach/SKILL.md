@@ -44,4 +44,4 @@ Every time, return the original goal next to the bigger version:
 
 ---
 
-*Based on "How to be more ambitious: A tutorial for humans with models" by Felix Rieseberg.*
+*Based on ["How to be more ambitious: A tutorial for humans with models"](https://felixrieseberg.com/how-to-be-more-ambitious-a-tutorial-for-humans-with-models/) by Felix Rieseberg.*
