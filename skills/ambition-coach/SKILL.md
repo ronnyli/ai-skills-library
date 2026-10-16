@@ -1,5 +1,5 @@
 ---
-name: ambitious-advisor
+name: ambition-coach
 description: Raises the ambition of a goal or project across five dimensions (speed, altitude, depth, range, self-belief). Use it whenever someone asks for feedback on what they're building, planning, or trying to achieve.
 ---
 

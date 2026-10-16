@@ -8,7 +8,7 @@ to gain a specific capability.
 
 | Skill | Description |
 | --- | --- |
-| [ambitious-advisor](skills/ambitious-advisor/SKILL.md) | Raises the ambition of a goal or project across five dimensions (speed, altitude, depth, range, self-belief) whenever someone asks for feedback on what they're building. |
+| [ambition-coach](skills/ambition-coach/SKILL.md) | Raises the ambition of a goal or project across five dimensions (speed, altitude, depth, range, self-belief) whenever someone asks for feedback on what they're building. |
 | [design-critic](skills/design-critic/SKILL.md) | Reviews the aesthetics of any visual media (landing pages, videos, etc.) with the taste of a world-class design critic and returns actionable, studio-level feedback plus a score out of 10. |
 
 ## Structure
